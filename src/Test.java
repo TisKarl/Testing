@@ -15,7 +15,6 @@ public class Test {
 		answer = true;
 		text = "World";
 		
-		//test
 	}
 }
 
