@@ -15,6 +15,8 @@ public class Test {
 		answer = true;
 		text = "World";
 		
+		System.out.println(text);
+		
 	}
 }
 
